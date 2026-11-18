@@ -1,0 +1,1409 @@
+{
+  "generated_at": "2026-11-09 12:12:09 UTC+03:30",
+  "type": "photos",
+  "records": [
+    {
+      "file": "2302242-4656-l__4734.webp",
+      "index": 0,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 900,
+      "height": 506,
+      "aspect": 1.779,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            301.8,
+            63.0,
+            663.6,
+            500.5
+          ],
+          "w": 361.8,
+          "h": 437.5,
+          "aspect": 0.827,
+          "cx_rel": 0.536,
+          "cy_rel": 0.557,
+          "area_rel": 0.3476
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.3,
+            136.1,
+            239.6,
+            495.7
+          ],
+          "w": 239.3,
+          "h": 359.6,
+          "aspect": 0.665,
+          "cx_rel": 0.133,
+          "cy_rel": 0.624,
+          "area_rel": 0.189
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            105.3,
+            115.4,
+            318.0,
+            487.0
+          ],
+          "w": 212.7,
+          "h": 371.6,
+          "aspect": 0.572,
+          "cx_rel": 0.235,
+          "cy_rel": 0.595,
+          "area_rel": 0.1736
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            604.4,
+            129.4,
+            872.5,
+            498.3
+          ],
+          "w": 268.1,
+          "h": 368.9,
+          "aspect": 0.727,
+          "cx_rel": 0.821,
+          "cy_rel": 0.62,
+          "area_rel": 0.2172
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            586.3,
+            33.3,
+            760.1,
+            266.5
+          ],
+          "w": 173.8,
+          "h": 233.2,
+          "aspect": 0.745,
+          "cx_rel": 0.748,
+          "cy_rel": 0.296,
+          "area_rel": 0.089
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            839.3,
+            213.9,
+            899.7,
+            500.4
+          ],
+          "w": 60.4,
+          "h": 286.5,
+          "aspect": 0.211,
+          "cx_rel": 0.966,
+          "cy_rel": 0.706,
+          "area_rel": 0.038
+        }
+      ],
+      "counts": {
+        "person": 6,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          301.8,
+          63.0,
+          663.6,
+          500.5
+        ],
+        "w": 361.8,
+        "h": 437.5,
+        "aspect": 0.827,
+        "cx_rel": 0.536,
+        "cy_rel": 0.557,
+        "area_rel": 0.3476
+      },
+      "head_top_rel": 0.125
+    },
+    {
+      "file": "3265398.jpg",
+      "index": 1,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 1000,
+      "height": 667,
+      "aspect": 1.499,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            856.1,
+            94.7,
+            999.8,
+            572.2
+          ],
+          "w": 143.7,
+          "h": 477.5,
+          "aspect": 0.301,
+          "cx_rel": 0.928,
+          "cy_rel": 0.5,
+          "area_rel": 0.1029
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            651.4,
+            127.7,
+            813.6,
+            579.0
+          ],
+          "w": 162.2,
+          "h": 451.3,
+          "aspect": 0.359,
+          "cx_rel": 0.733,
+          "cy_rel": 0.53,
+          "area_rel": 0.1097
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            8.4,
+            155.0,
+            166.8,
+            559.3
+          ],
+          "w": 158.4,
+          "h": 404.3,
+          "aspect": 0.392,
+          "cx_rel": 0.088,
+          "cy_rel": 0.535,
+          "area_rel": 0.096
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            295.4,
+            128.3,
+            447.5,
+            576.9
+          ],
+          "w": 152.1,
+          "h": 448.6,
+          "aspect": 0.339,
+          "cx_rel": 0.371,
+          "cy_rel": 0.529,
+          "area_rel": 0.1023
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            133.3,
+            127.4,
+            302.6,
+            571.2
+          ],
+          "w": 169.3,
+          "h": 443.8,
+          "aspect": 0.381,
+          "cx_rel": 0.218,
+          "cy_rel": 0.524,
+          "area_rel": 0.1126
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            427.5,
+            118.8,
+            606.0,
+            581.5
+          ],
+          "w": 178.5,
+          "h": 462.7,
+          "aspect": 0.386,
+          "cx_rel": 0.517,
+          "cy_rel": 0.525,
+          "area_rel": 0.1238
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            760.3,
+            106.8,
+            889.7,
+            567.0
+          ],
+          "w": 129.4,
+          "h": 460.2,
+          "aspect": 0.281,
+          "cx_rel": 0.825,
+          "cy_rel": 0.505,
+          "area_rel": 0.0893
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            583.6,
+            124.8,
+            692.8,
+            574.8
+          ],
+          "w": 109.2,
+          "h": 450.0,
+          "aspect": 0.243,
+          "cx_rel": 0.638,
+          "cy_rel": 0.524,
+          "area_rel": 0.0737
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            417.4,
+            115.8,
+            498.4,
+            290.5
+          ],
+          "w": 81.0,
+          "h": 174.7,
+          "aspect": 0.464,
+          "cx_rel": 0.458,
+          "cy_rel": 0.305,
+          "area_rel": 0.0212
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.0,
+            139.4,
+            34.8,
+            378.3
+          ],
+          "w": 34.8,
+          "h": 238.9,
+          "aspect": 0.146,
+          "cx_rel": 0.017,
+          "cy_rel": 0.388,
+          "area_rel": 0.0125
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            845.4,
+            103.2,
+            906.6,
+            222.2
+          ],
+          "w": 61.2,
+          "h": 119.0,
+          "aspect": 0.514,
+          "cx_rel": 0.876,
+          "cy_rel": 0.244,
+          "area_rel": 0.0109
+        }
+      ],
+      "counts": {
+        "person": 11,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          856.1,
+          94.7,
+          999.8,
+          572.2
+        ],
+        "w": 143.7,
+        "h": 477.5,
+        "aspect": 0.301,
+        "cx_rel": 0.928,
+        "cy_rel": 0.5,
+        "area_rel": 0.1029
+      },
+      "head_top_rel": 0.142
+    },
+    {
+      "file": "375841_989.webp",
+      "index": 2,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 1190,
+      "height": 1508,
+      "aspect": 0.789,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            418.2,
+            87.3,
+            1188.4,
+            1505.3
+          ],
+          "w": 770.2,
+          "h": 1418.0,
+          "aspect": 0.543,
+          "cx_rel": 0.675,
+          "cy_rel": 0.528,
+          "area_rel": 0.6086
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.0,
+            168.7,
+            532.4,
+            1497.4
+          ],
+          "w": 532.4,
+          "h": 1328.7,
+          "aspect": 0.401,
+          "cx_rel": 0.224,
+          "cy_rel": 0.552,
+          "area_rel": 0.3942
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            512.2,
+            234.9,
+            697.4,
+            564.1
+          ],
+          "w": 185.2,
+          "h": 329.2,
+          "aspect": 0.563,
+          "cx_rel": 0.508,
+          "cy_rel": 0.265,
+          "area_rel": 0.034
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.0,
+            203.1,
+            191.1,
+            748.7
+          ],
+          "w": 191.1,
+          "h": 545.6,
+          "aspect": 0.35,
+          "cx_rel": 0.08,
+          "cy_rel": 0.316,
+          "area_rel": 0.0581
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            465.9,
+            72.6,
+            645.6,
+            578.3
+          ],
+          "w": 179.7,
+          "h": 505.7,
+          "aspect": 0.355,
+          "cx_rel": 0.467,
+          "cy_rel": 0.216,
+          "area_rel": 0.0506
+        }
+      ],
+      "counts": {
+        "person": 5,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          418.2,
+          87.3,
+          1188.4,
+          1505.3
+        ],
+        "w": 770.2,
+        "h": 1418.0,
+        "aspect": 0.543,
+        "cx_rel": 0.675,
+        "cy_rel": 0.528,
+        "area_rel": 0.6086
+      },
+      "head_top_rel": 0.058
+    },
+    {
+      "file": "8544342-8534-l__4538.webp",
+      "index": 3,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 900,
+      "height": 506,
+      "aspect": 1.779,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            681.3,
+            64.8,
+            899.6,
+            501.0
+          ],
+          "w": 218.3,
+          "h": 436.2,
+          "aspect": 0.5,
+          "cx_rel": 0.878,
+          "cy_rel": 0.559,
+          "area_rel": 0.2091
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            217.1,
+            32.5,
+            593.5,
+            499.8
+          ],
+          "w": 376.4,
+          "h": 467.3,
+          "aspect": 0.805,
+          "cx_rel": 0.45,
+          "cy_rel": 0.526,
+          "area_rel": 0.3862
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            510.7,
+            92.0,
+            679.0,
+            501.3
+          ],
+          "w": 168.3,
+          "h": 409.3,
+          "aspect": 0.411,
+          "cx_rel": 0.661,
+          "cy_rel": 0.586,
+          "area_rel": 0.1513
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.1,
+            74.5,
+            212.3,
+            497.2
+          ],
+          "w": 212.2,
+          "h": 422.7,
+          "aspect": 0.502,
+          "cx_rel": 0.118,
+          "cy_rel": 0.565,
+          "area_rel": 0.197
+        },
+        {
+          "class": "tie",
+          "conf": 0.0,
+          "box": [
+            796.7,
+            229.3,
+            835.0,
+            287.5
+          ],
+          "w": 38.3,
+          "h": 58.2,
+          "aspect": 0.658,
+          "cx_rel": 0.906,
+          "cy_rel": 0.511,
+          "area_rel": 0.0049
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            201.2,
+            132.1,
+            325.2,
+            446.1
+          ],
+          "w": 124.0,
+          "h": 314.0,
+          "aspect": 0.395,
+          "cx_rel": 0.292,
+          "cy_rel": 0.571,
+          "area_rel": 0.0855
+        },
+        {
+          "class": "tie",
+          "conf": 0.0,
+          "box": [
+            416.4,
+            164.3,
+            452.3,
+            368.4
+          ],
+          "w": 35.9,
+          "h": 204.1,
+          "aspect": 0.176,
+          "cx_rel": 0.483,
+          "cy_rel": 0.526,
+          "area_rel": 0.0161
+        }
+      ],
+      "counts": {
+        "person": 5,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          681.3,
+          64.8,
+          899.6,
+          501.0
+        ],
+        "w": 218.3,
+        "h": 436.2,
+        "aspect": 0.5,
+        "cx_rel": 0.878,
+        "cy_rel": 0.559,
+        "area_rel": 0.2091
+      },
+      "head_top_rel": 0.128
+    },
+    {
+      "file": "file.jpg",
+      "index": 4,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 350,
+      "height": 491,
+      "aspect": 0.713,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            126.3,
+            213.8,
+            218.6,
+            457.9
+          ],
+          "w": 92.3,
+          "h": 244.1,
+          "aspect": 0.378,
+          "cx_rel": 0.493,
+          "cy_rel": 0.684,
+          "area_rel": 0.1311
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            61.6,
+            227.0,
+            138.3,
+            455.3
+          ],
+          "w": 76.7,
+          "h": 228.3,
+          "aspect": 0.336,
+          "cx_rel": 0.286,
+          "cy_rel": 0.695,
+          "area_rel": 0.1019
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            213.0,
+            226.7,
+            284.7,
+            456.6
+          ],
+          "w": 71.7,
+          "h": 229.9,
+          "aspect": 0.312,
+          "cx_rel": 0.711,
+          "cy_rel": 0.696,
+          "area_rel": 0.0959
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            266.5,
+            215.4,
+            337.6,
+            464.3
+          ],
+          "w": 71.1,
+          "h": 248.9,
+          "aspect": 0.286,
+          "cx_rel": 0.863,
+          "cy_rel": 0.692,
+          "area_rel": 0.103
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            122.7,
+            213.9,
+            158.2,
+            265.4
+          ],
+          "w": 35.5,
+          "h": 51.5,
+          "aspect": 0.689,
+          "cx_rel": 0.401,
+          "cy_rel": 0.488,
+          "area_rel": 0.0106
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            183.0,
+            204.7,
+            232.7,
+            278.2
+          ],
+          "w": 49.7,
+          "h": 73.5,
+          "aspect": 0.676,
+          "cx_rel": 0.594,
+          "cy_rel": 0.492,
+          "area_rel": 0.0213
+        }
+      ],
+      "counts": {
+        "person": 6,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          126.3,
+          213.8,
+          218.6,
+          457.9
+        ],
+        "w": 92.3,
+        "h": 244.1,
+        "aspect": 0.378,
+        "cx_rel": 0.493,
+        "cy_rel": 0.684,
+        "area_rel": 0.1311
+      },
+      "head_top_rel": 0.435
+    },
+    {
+      "file": "images (1).jpg",
+      "index": 5,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 576,
+      "height": 384,
+      "aspect": 1.5,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.1,
+            27.8,
+            158.5,
+            377.5
+          ],
+          "w": 158.4,
+          "h": 349.7,
+          "aspect": 0.453,
+          "cx_rel": 0.138,
+          "cy_rel": 0.528,
+          "area_rel": 0.2504
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            329.1,
+            36.9,
+            559.4,
+            379.8
+          ],
+          "w": 230.3,
+          "h": 342.9,
+          "aspect": 0.672,
+          "cx_rel": 0.771,
+          "cy_rel": 0.543,
+          "area_rel": 0.357
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            158.5,
+            15.4,
+            401.9,
+            378.3
+          ],
+          "w": 243.4,
+          "h": 362.9,
+          "aspect": 0.671,
+          "cx_rel": 0.486,
+          "cy_rel": 0.513,
+          "area_rel": 0.3994
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            501.4,
+            21.7,
+            576.0,
+            383.2
+          ],
+          "w": 74.6,
+          "h": 361.5,
+          "aspect": 0.206,
+          "cx_rel": 0.935,
+          "cy_rel": 0.527,
+          "area_rel": 0.1219
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            81.7,
+            7.5,
+            227.3,
+            363.0
+          ],
+          "w": 145.6,
+          "h": 355.5,
+          "aspect": 0.41,
+          "cx_rel": 0.268,
+          "cy_rel": 0.482,
+          "area_rel": 0.234
+        }
+      ],
+      "counts": {
+        "person": 5,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          0.1,
+          27.8,
+          158.5,
+          377.5
+        ],
+        "w": 158.4,
+        "h": 349.7,
+        "aspect": 0.453,
+        "cx_rel": 0.138,
+        "cy_rel": 0.528,
+        "area_rel": 0.2504
+      },
+      "head_top_rel": 0.072
+    },
+    {
+      "file": "images (2).jpg",
+      "index": 6,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 547,
+      "height": 365,
+      "aspect": 1.499,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            65.1,
+            11.5,
+            336.2,
+            361.8
+          ],
+          "w": 271.1,
+          "h": 350.3,
+          "aspect": 0.774,
+          "cx_rel": 0.367,
+          "cy_rel": 0.511,
+          "area_rel": 0.4757
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            321.3,
+            45.0,
+            545.3,
+            360.6
+          ],
+          "w": 224.0,
+          "h": 315.6,
+          "aspect": 0.71,
+          "cx_rel": 0.792,
+          "cy_rel": 0.556,
+          "area_rel": 0.3541
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.0,
+            190.3,
+            33.5,
+            360.8
+          ],
+          "w": 33.5,
+          "h": 170.5,
+          "aspect": 0.196,
+          "cx_rel": 0.031,
+          "cy_rel": 0.755,
+          "area_rel": 0.0286
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            10.0,
+            158.1,
+            90.8,
+            357.2
+          ],
+          "w": 80.8,
+          "h": 199.1,
+          "aspect": 0.406,
+          "cx_rel": 0.092,
+          "cy_rel": 0.706,
+          "area_rel": 0.0806
+        }
+      ],
+      "counts": {
+        "person": 4,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          65.1,
+          11.5,
+          336.2,
+          361.8
+        ],
+        "w": 271.1,
+        "h": 350.3,
+        "aspect": 0.774,
+        "cx_rel": 0.367,
+        "cy_rel": 0.511,
+        "area_rel": 0.4757
+      },
+      "head_top_rel": 0.032
+    },
+    {
+      "file": "images (3).jpg",
+      "index": 7,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 365,
+      "height": 547,
+      "aspect": 0.667,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            41.2,
+            35.9,
+            226.2,
+            524.7
+          ],
+          "w": 185.0,
+          "h": 488.8,
+          "aspect": 0.378,
+          "cx_rel": 0.366,
+          "cy_rel": 0.512,
+          "area_rel": 0.4529
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            285.0,
+            65.6,
+            364.3,
+            498.0
+          ],
+          "w": 79.3,
+          "h": 432.4,
+          "aspect": 0.183,
+          "cx_rel": 0.889,
+          "cy_rel": 0.515,
+          "area_rel": 0.1717
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.2,
+            16.4,
+            92.7,
+            525.2
+          ],
+          "w": 92.5,
+          "h": 508.8,
+          "aspect": 0.182,
+          "cx_rel": 0.127,
+          "cy_rel": 0.495,
+          "area_rel": 0.2357
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            190.0,
+            54.4,
+            314.1,
+            497.2
+          ],
+          "w": 124.1,
+          "h": 442.8,
+          "aspect": 0.28,
+          "cx_rel": 0.691,
+          "cy_rel": 0.504,
+          "area_rel": 0.2752
+        }
+      ],
+      "counts": {
+        "person": 4,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          41.2,
+          35.9,
+          226.2,
+          524.7
+        ],
+        "w": 185.0,
+        "h": 488.8,
+        "aspect": 0.378,
+        "cx_rel": 0.366,
+        "cy_rel": 0.512,
+        "area_rel": 0.4529
+      },
+      "head_top_rel": 0.066
+    },
+    {
+      "file": "images (4).jpg",
+      "index": 8,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 678,
+      "height": 452,
+      "aspect": 1.5,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.2,
+            9.7,
+            190.2,
+            441.5
+          ],
+          "w": 190.0,
+          "h": 431.8,
+          "aspect": 0.44,
+          "cx_rel": 0.14,
+          "cy_rel": 0.499,
+          "area_rel": 0.2677
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            2.1,
+            26.6,
+            666.1,
+            447.0
+          ],
+          "w": 664.0,
+          "h": 420.4,
+          "aspect": 1.579,
+          "cx_rel": 0.493,
+          "cy_rel": 0.524,
+          "area_rel": 0.9109
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            549.3,
+            113.2,
+            677.5,
+            442.8
+          ],
+          "w": 128.2,
+          "h": 329.6,
+          "aspect": 0.389,
+          "cx_rel": 0.905,
+          "cy_rel": 0.615,
+          "area_rel": 0.1379
+        }
+      ],
+      "counts": {
+        "person": 3,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          0.2,
+          9.7,
+          190.2,
+          441.5
+        ],
+        "w": 190.0,
+        "h": 431.8,
+        "aspect": 0.44,
+        "cx_rel": 0.14,
+        "cy_rel": 0.499,
+        "area_rel": 0.2677
+      },
+      "head_top_rel": 0.021
+    },
+    {
+      "file": "images.jpg",
+      "index": 9,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 692,
+      "height": 443,
+      "aspect": 1.562,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            530.3,
+            144.9,
+            642.6,
+            402.3
+          ],
+          "w": 112.3,
+          "h": 257.4,
+          "aspect": 0.436,
+          "cx_rel": 0.847,
+          "cy_rel": 0.618,
+          "area_rel": 0.0943
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            360.4,
+            156.8,
+            457.5,
+            400.4
+          ],
+          "w": 97.1,
+          "h": 243.6,
+          "aspect": 0.399,
+          "cx_rel": 0.591,
+          "cy_rel": 0.629,
+          "area_rel": 0.0772
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            270.1,
+            147.1,
+            357.4,
+            407.9
+          ],
+          "w": 87.3,
+          "h": 260.8,
+          "aspect": 0.335,
+          "cx_rel": 0.453,
+          "cy_rel": 0.626,
+          "area_rel": 0.0743
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            630.5,
+            177.6,
+            678.7,
+            315.2
+          ],
+          "w": 48.2,
+          "h": 137.6,
+          "aspect": 0.35,
+          "cx_rel": 0.946,
+          "cy_rel": 0.556,
+          "area_rel": 0.0216
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            453.6,
+            151.8,
+            557.4,
+            405.2
+          ],
+          "w": 103.8,
+          "h": 253.4,
+          "aspect": 0.41,
+          "cx_rel": 0.73,
+          "cy_rel": 0.629,
+          "area_rel": 0.0858
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            187.3,
+            161.3,
+            271.3,
+            370.3
+          ],
+          "w": 84.0,
+          "h": 209.0,
+          "aspect": 0.402,
+          "cx_rel": 0.331,
+          "cy_rel": 0.6,
+          "area_rel": 0.0573
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            95.1,
+            157.9,
+            168.4,
+            344.1
+          ],
+          "w": 73.3,
+          "h": 186.2,
+          "aspect": 0.394,
+          "cx_rel": 0.19,
+          "cy_rel": 0.567,
+          "area_rel": 0.0445
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            152.6,
+            160.6,
+            214.4,
+            363.5
+          ],
+          "w": 61.8,
+          "h": 202.9,
+          "aspect": 0.305,
+          "cx_rel": 0.265,
+          "cy_rel": 0.592,
+          "area_rel": 0.0409
+        }
+      ],
+      "counts": {
+        "person": 8,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          530.3,
+          144.9,
+          642.6,
+          402.3
+        ],
+        "w": 112.3,
+        "h": 257.4,
+        "aspect": 0.436,
+        "cx_rel": 0.847,
+        "cy_rel": 0.618,
+        "area_rel": 0.0943
+      },
+      "head_top_rel": 0.327
+    },
+    {
+      "file": "Khamenei-afsari-005.jpg",
+      "index": 10,
+      "time_sec": null,
+      "time_hms": null,
+      "width": 600,
+      "height": 418,
+      "aspect": 1.435,
+      "objects": [
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            332.3,
+            25.5,
+            599.7,
+            398.8
+          ],
+          "w": 267.4,
+          "h": 373.3,
+          "aspect": 0.716,
+          "cx_rel": 0.777,
+          "cy_rel": 0.508,
+          "area_rel": 0.398
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            0.6,
+            34.0,
+            240.2,
+            398.9
+          ],
+          "w": 239.6,
+          "h": 364.9,
+          "aspect": 0.657,
+          "cx_rel": 0.201,
+          "cy_rel": 0.518,
+          "area_rel": 0.3486
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            193.9,
+            84.0,
+            339.1,
+            397.4
+          ],
+          "w": 145.2,
+          "h": 313.4,
+          "aspect": 0.463,
+          "cx_rel": 0.444,
+          "cy_rel": 0.576,
+          "area_rel": 0.1814
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            10.0,
+            116.9,
+            84.8,
+            235.5
+          ],
+          "w": 74.8,
+          "h": 118.6,
+          "aspect": 0.631,
+          "cx_rel": 0.079,
+          "cy_rel": 0.422,
+          "area_rel": 0.0354
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            529.7,
+            54.1,
+            599.7,
+            164.0
+          ],
+          "w": 70.0,
+          "h": 109.9,
+          "aspect": 0.637,
+          "cx_rel": 0.941,
+          "cy_rel": 0.261,
+          "area_rel": 0.0307
+        },
+        {
+          "class": "person",
+          "conf": 0.0,
+          "box": [
+            516.6,
+            54.1,
+            599.7,
+            387.7
+          ],
+          "w": 83.1,
+          "h": 333.6,
+          "aspect": 0.249,
+          "cx_rel": 0.93,
+          "cy_rel": 0.528,
+          "area_rel": 0.1105
+        }
+      ],
+      "counts": {
+        "person": 6,
+        "face": 0,
+        "hand": 0
+      },
+      "primary_person": {
+        "class": "person",
+        "conf": 0.0,
+        "box": [
+          332.3,
+          25.5,
+          599.7,
+          398.8
+        ],
+        "w": 267.4,
+        "h": 373.3,
+        "aspect": 0.716,
+        "cx_rel": 0.777,
+        "cy_rel": 0.508,
+        "area_rel": 0.398
+      },
+      "head_top_rel": 0.061
+    }
+  ]
+}

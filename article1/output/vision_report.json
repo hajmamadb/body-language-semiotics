@@ -1,0 +1,676 @@
+{
+  "generated_at": "2026-11-09 12:18:08 UTC+03:30",
+  "photos": {
+    "summary": {
+      "n": 11,
+      "shot_size": {
+        "کلوزآپ / سر-شانه": 6,
+        "نیم‌نمای بالا (سینه به بالا)": 3,
+        "تمام‌نما / پهن (کامل یا صحنه)": 1,
+        "نیم‌نمای پایین / زانو به بالا": 1
+      },
+      "layout": {
+        "گروه متوسط (۵-۸)": 7,
+        "گروه کوچک (۳-۴)": 3,
+        "پرجمعیت / توده (۹+)": 1
+      },
+      "vert_zone": {
+        "میانهٔ قاب": 9,
+        "پایین قاب": 2
+      },
+      "aspect_cls": {
+        "کشیده (ایستاده/پوشیده)": 5,
+        "نرم (معمول ایستاده)": 5,
+        "مربعی (نشسته/کوتاه)": 1
+      },
+      "head_ratio": {
+        "سر کوچک/دور (≈۱:۷+)": 5,
+        "سر متوسط (≈۱:۶)": 5,
+        "سر بزرگ/نزدیک (≈۱:۴)": 1
+      }
+    },
+    "records": [
+      {
+        "file": "2302242-4656-l__4734.webp",
+        "video": null,
+        "time_hms": null,
+        "n_person": 6,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "مربعی (نشسته/کوتاه)",
+        "head_ratio": "سر بزرگ/نزدیک (≈۱:۴)",
+        "area_rel": 0.3476,
+        "cx_rel": 0.536
+      },
+      {
+        "file": "3265398.jpg",
+        "video": null,
+        "time_hms": null,
+        "n_person": 11,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.1029,
+        "cx_rel": 0.928
+      },
+      {
+        "file": "375841_989.webp",
+        "video": null,
+        "time_hms": null,
+        "n_person": 5,
+        "shot_size": "کلوزآپ / سر-شانه",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.6086,
+        "cx_rel": 0.675
+      },
+      {
+        "file": "8544342-8534-l__4538.webp",
+        "video": null,
+        "time_hms": null,
+        "n_person": 5,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.2091,
+        "cx_rel": 0.878
+      },
+      {
+        "file": "file.jpg",
+        "video": null,
+        "time_hms": null,
+        "n_person": 6,
+        "shot_size": "تمام‌نما / پهن (کامل یا صحنه)",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.1311,
+        "cx_rel": 0.493
+      },
+      {
+        "file": "images (1).jpg",
+        "video": null,
+        "time_hms": null,
+        "n_person": 5,
+        "shot_size": "کلوزآپ / سر-شانه",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.2504,
+        "cx_rel": 0.138
+      },
+      {
+        "file": "images (2).jpg",
+        "video": null,
+        "time_hms": null,
+        "n_person": 4,
+        "shot_size": "کلوزآپ / سر-شانه",
+        "layout": "گروه کوچک (۳-۴)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.4757,
+        "cx_rel": 0.367
+      },
+      {
+        "file": "images (3).jpg",
+        "video": null,
+        "time_hms": null,
+        "n_person": 4,
+        "shot_size": "کلوزآپ / سر-شانه",
+        "layout": "گروه کوچک (۳-۴)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.4529,
+        "cx_rel": 0.366
+      },
+      {
+        "file": "images (4).jpg",
+        "video": null,
+        "time_hms": null,
+        "n_person": 3,
+        "shot_size": "کلوزآپ / سر-شانه",
+        "layout": "گروه کوچک (۳-۴)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.2677,
+        "cx_rel": 0.14
+      },
+      {
+        "file": "images.jpg",
+        "video": null,
+        "time_hms": null,
+        "n_person": 8,
+        "shot_size": "نیم‌نمای پایین / زانو به بالا",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.0943,
+        "cx_rel": 0.847
+      },
+      {
+        "file": "Khamenei-afsari-005.jpg",
+        "video": null,
+        "time_hms": null,
+        "n_person": 6,
+        "shot_size": "کلوزآپ / سر-شانه",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.398,
+        "cx_rel": 0.777
+      }
+    ]
+  },
+  "videos": {
+    "summary": {
+      "n": 33,
+      "shot_size": {
+        "نامشخص": 9,
+        "نیم‌نمای بالا (سینه به بالا)": 9,
+        "نیم‌نمای پایین / زانو به بالا": 8,
+        "تمام‌نما / پهن (کامل یا صحنه)": 6,
+        "کلوزآپ / سر-شانه": 1
+      },
+      "layout": {
+        "پرجمعیت / توده (۹+)": 15,
+        "تنها": 9,
+        "گروه متوسط (۵-۸)": 6,
+        "جفت": 3
+      },
+      "vert_zone": {
+        "میانهٔ قاب": 13,
+        "پایین قاب": 11,
+        "نامشخص": 9
+      },
+      "aspect_cls": {
+        "کشیده (ایستاده/پوشیده)": 14,
+        "نرم (معمول ایستاده)": 10,
+        "نامشخص": 9
+      },
+      "head_ratio": {
+        "سر کوچک/دور (≈۱:۷+)": 14,
+        "سر متوسط (≈۱:۶)": 10,
+        "—": 9
+      }
+    },
+    "records": [
+      {
+        "file": "tmp_s09qrze.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "00:00",
+        "n_person": 0,
+        "shot_size": "نامشخص",
+        "layout": "تنها",
+        "vert_zone": "نامشخص",
+        "aspect_cls": "نامشخص",
+        "head_ratio": "—",
+        "area_rel": null,
+        "cx_rel": null
+      },
+      {
+        "file": "tmpcbzbm9y9.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "00:12",
+        "n_person": 10,
+        "shot_size": "تمام‌نما / پهن (کامل یا صحنه)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.0186,
+        "cx_rel": 0.364
+      },
+      {
+        "file": "tmpf_g4j2b7.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "00:25",
+        "n_person": 2,
+        "shot_size": "تمام‌نما / پهن (کامل یا صحنه)",
+        "layout": "جفت",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.1581,
+        "cx_rel": 0.134
+      },
+      {
+        "file": "tmpbx_5hv5p.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "00:37",
+        "n_person": 11,
+        "shot_size": "تمام‌نما / پهن (کامل یا صحنه)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.0546,
+        "cx_rel": 0.095
+      },
+      {
+        "file": "tmplxoa2r0s.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "00:50",
+        "n_person": 11,
+        "shot_size": "تمام‌نما / پهن (کامل یا صحنه)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.0781,
+        "cx_rel": 0.068
+      },
+      {
+        "file": "tmpgfpw5fel.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "01:02",
+        "n_person": 10,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.1238,
+        "cx_rel": 0.079
+      },
+      {
+        "file": "tmp7fcoxqim.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "01:15",
+        "n_person": 7,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.1749,
+        "cx_rel": 0.23
+      },
+      {
+        "file": "tmppitzgkl6.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "01:28",
+        "n_person": 8,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.1425,
+        "cx_rel": 0.093
+      },
+      {
+        "file": "tmp3qexzbj6.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "01:40",
+        "n_person": 8,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.1475,
+        "cx_rel": 0.27
+      },
+      {
+        "file": "tmp9fwjv0zs.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "01:53",
+        "n_person": 8,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.1493,
+        "cx_rel": 0.26
+      },
+      {
+        "file": "tmp60wdb7mi.png",
+        "video": "05558e25589484285243fd9c68e9ea6d20014966-360p.mp4",
+        "time_hms": "02:05",
+        "n_person": 10,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.0892,
+        "cx_rel": 0.053
+      },
+      {
+        "file": "tmpmtsqgsfm.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "00:00",
+        "n_person": 0,
+        "shot_size": "نامشخص",
+        "layout": "تنها",
+        "vert_zone": "نامشخص",
+        "aspect_cls": "نامشخص",
+        "head_ratio": "—",
+        "area_rel": null,
+        "cx_rel": null
+      },
+      {
+        "file": "tmppfuf40h8.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "00:48",
+        "n_person": 0,
+        "shot_size": "نامشخص",
+        "layout": "تنها",
+        "vert_zone": "نامشخص",
+        "aspect_cls": "نامشخص",
+        "head_ratio": "—",
+        "area_rel": null,
+        "cx_rel": null
+      },
+      {
+        "file": "tmppy4ee5kd.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "01:37",
+        "n_person": 2,
+        "shot_size": "نیم‌نمای پایین / زانو به بالا",
+        "layout": "جفت",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.0265,
+        "cx_rel": 0.331
+      },
+      {
+        "file": "tmp8nk5qfaz.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "02:25",
+        "n_person": 0,
+        "shot_size": "نامشخص",
+        "layout": "تنها",
+        "vert_zone": "نامشخص",
+        "aspect_cls": "نامشخص",
+        "head_ratio": "—",
+        "area_rel": null,
+        "cx_rel": null
+      },
+      {
+        "file": "tmpslp_yu8e.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "03:14",
+        "n_person": 0,
+        "shot_size": "نامشخص",
+        "layout": "تنها",
+        "vert_zone": "نامشخص",
+        "aspect_cls": "نامشخص",
+        "head_ratio": "—",
+        "area_rel": null,
+        "cx_rel": null
+      },
+      {
+        "file": "tmpei3ugnzi.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "04:02",
+        "n_person": 0,
+        "shot_size": "نامشخص",
+        "layout": "تنها",
+        "vert_zone": "نامشخص",
+        "aspect_cls": "نامشخص",
+        "head_ratio": "—",
+        "area_rel": null,
+        "cx_rel": null
+      },
+      {
+        "file": "tmpeyoeemdo.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "04:51",
+        "n_person": 0,
+        "shot_size": "نامشخص",
+        "layout": "تنها",
+        "vert_zone": "نامشخص",
+        "aspect_cls": "نامشخص",
+        "head_ratio": "—",
+        "area_rel": null,
+        "cx_rel": null
+      },
+      {
+        "file": "tmprbucl0c8.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "05:39",
+        "n_person": 10,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.2427,
+        "cx_rel": 0.545
+      },
+      {
+        "file": "tmpf_ulam_g.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "06:28",
+        "n_person": 10,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.3448,
+        "cx_rel": 0.592
+      },
+      {
+        "file": "tmpsh_ly_3b.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "07:16",
+        "n_person": 0,
+        "shot_size": "نامشخص",
+        "layout": "تنها",
+        "vert_zone": "نامشخص",
+        "aspect_cls": "نامشخص",
+        "head_ratio": "—",
+        "area_rel": null,
+        "cx_rel": null
+      },
+      {
+        "file": "tmphxegizot.png",
+        "video": "1aa29c0ff6d7e134d15768331872520e8537191-720p.mp4",
+        "time_hms": "08:05",
+        "n_person": 0,
+        "shot_size": "نامشخص",
+        "layout": "تنها",
+        "vert_zone": "نامشخص",
+        "aspect_cls": "نامشخص",
+        "head_ratio": "—",
+        "area_rel": null,
+        "cx_rel": null
+      },
+      {
+        "file": "tmprxg2nvcp.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "00:00",
+        "n_person": 8,
+        "shot_size": "نیم‌نمای پایین / زانو به بالا",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.1503,
+        "cx_rel": 0.639
+      },
+      {
+        "file": "tmp2zibx3ra.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "00:07",
+        "n_person": 11,
+        "shot_size": "تمام‌نما / پهن (کامل یا صحنه)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.144,
+        "cx_rel": 0.846
+      },
+      {
+        "file": "tmpifulspw9.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "00:15",
+        "n_person": 15,
+        "shot_size": "نیم‌نمای پایین / زانو به بالا",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.0207,
+        "cx_rel": 0.401
+      },
+      {
+        "file": "tmp3vnidgdn.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "00:22",
+        "n_person": 8,
+        "shot_size": "نیم‌نمای بالا (سینه به بالا)",
+        "layout": "گروه متوسط (۵-۸)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.2515,
+        "cx_rel": 0.598
+      },
+      {
+        "file": "tmp3kfcwo1x.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "00:30",
+        "n_person": 2,
+        "shot_size": "کلوزآپ / سر-شانه",
+        "layout": "جفت",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.4217,
+        "cx_rel": 0.784
+      },
+      {
+        "file": "tmpspw9olg_.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "00:37",
+        "n_person": 15,
+        "shot_size": "نیم‌نمای پایین / زانو به بالا",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.1001,
+        "cx_rel": 0.892
+      },
+      {
+        "file": "tmpqyqfqazp.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "00:45",
+        "n_person": 16,
+        "shot_size": "تمام‌نما / پهن (کامل یا صحنه)",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.0485,
+        "cx_rel": 0.792
+      },
+      {
+        "file": "tmpuklgjrdm.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "00:53",
+        "n_person": 13,
+        "shot_size": "نیم‌نمای پایین / زانو به بالا",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.087,
+        "cx_rel": 0.393
+      },
+      {
+        "file": "tmpubmjutre.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "01:00",
+        "n_person": 12,
+        "shot_size": "نیم‌نمای پایین / زانو به بالا",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "میانهٔ قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.0641,
+        "cx_rel": 0.635
+      },
+      {
+        "file": "tmp3eorsffm.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "01:08",
+        "n_person": 9,
+        "shot_size": "نیم‌نمای پایین / زانو به بالا",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "کشیده (ایستاده/پوشیده)",
+        "head_ratio": "سر کوچک/دور (≈۱:۷+)",
+        "area_rel": 0.1139,
+        "cx_rel": 0.128
+      },
+      {
+        "file": "tmp17szbkt6.png",
+        "video": "nf00259336-1.mp4",
+        "time_hms": "01:15",
+        "n_person": 9,
+        "shot_size": "نیم‌نمای پایین / زانو به بالا",
+        "layout": "پرجمعیت / توده (۹+)",
+        "vert_zone": "پایین قاب",
+        "aspect_cls": "نرم (معمول ایستاده)",
+        "head_ratio": "سر متوسط (≈۱:۶)",
+        "area_rel": 0.1369,
+        "cx_rel": 0.9
+      }
+    ]
+  },
+  "combined": {
+    "n": 44,
+    "shot_size": {
+      "نیم‌نمای بالا (سینه به بالا)": 12,
+      "نیم‌نمای پایین / زانو به بالا": 9,
+      "نامشخص": 9,
+      "کلوزآپ / سر-شانه": 7,
+      "تمام‌نما / پهن (کامل یا صحنه)": 7
+    },
+    "layout": {
+      "پرجمعیت / توده (۹+)": 16,
+      "گروه متوسط (۵-۸)": 13,
+      "تنها": 9,
+      "گروه کوچک (۳-۴)": 3,
+      "جفت": 3
+    },
+    "vert_zone": {
+      "میانهٔ قاب": 22,
+      "پایین قاب": 13,
+      "نامشخص": 9
+    },
+    "aspect_cls": {
+      "کشیده (ایستاده/پوشیده)": 19,
+      "نرم (معمول ایستاده)": 15,
+      "نامشخص": 9,
+      "مربعی (نشسته/کوتاه)": 1
+    },
+    "head_ratio": {
+      "سر کوچک/دور (≈۱:۷+)": 19,
+      "سر متوسط (≈۱:۶)": 15,
+      "—": 9,
+      "سر بزرگ/نزدیک (≈۱:۴)": 1
+    }
+  }
+}
